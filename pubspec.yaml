@@ -99,32 +99,32 @@ flutter:
     - assets/sounds/z.mp3
 
     # Add images for each alphabet letter
-    - assets/images/a.png
-    - lib/assets/images/b.png
-    - lib/assets/images/c.png
-    - lib/assets/images/d.png
-    - lib/assets/images/e.png
-    - lib/assets/images/f.png
-    - lib/assets/images/g.png
-    - lib/assets/images/h.png
-    - lib/assets/images/i.png
-    - lib/assets/images/j.png
-    - lib/assets/images/k.png
-    - lib/assets/images/l.png
-    - lib/assets/images/m.png
-    - lib/assets/images/n.png
-    - lib/assets/images/o.png
-    - lib/assets/images/p.png
-    - lib/assets/images/q.png
-    - lib/assets/images/r.png
-    - lib/assets/images/s.png
-    - lib/assets/images/t.png
-    - lib/assets/images/u.png
-    - lib/assets/images/v.png
-    - lib/assets/images/w.png
-    - lib/assets/images/x.png
-    - lib/assets/images/y.png
-    - lib/assets/images/z.png
+    - assets/images/Letter_A.png
+    - assets/images/Letter_B.png
+    - assets/images/Letter_C.png
+    - assets/images/Letter_D.png
+    - assets/images/Letter_E.png
+    - assets/images/Letter_F.png
+    - assets/images/Letter_G.png
+    - assets/images/Letter_H.png
+    - assets/images/Letter_I.png
+    - assets/images/Letter_J.png
+    - assets/images/Letter_K.png
+    - assets/images/Letter_L.png
+    - assets/images/Letter_M.png
+    - assets/images/Letter_N.png
+    - assets/images/Letter_O.png
+    - assets/images/Letter_P.png
+    - assets/images/Letter_Q.png
+    - assets/images/Letter_R.png
+    - assets/images/Letter_S.png
+    - assets/images/Letter_T.png
+    - assets/images/Letter_U.png
+    - assets/images/Letter_V.png
+    - assets/images/Letter_W.png
+    - assets/images/Letter_X.png
+    - assets/images/Letter_Y.png
+    - assets/images/Letter_Z.png
 
 
 
